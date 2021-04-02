@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126489092552",
+    "firebase_url": "https://findmybus-e845a-default-rtdb.firebaseio.com",
+    "project_id": "findmybus-e845a",
+    "storage_bucket": "findmybus-e845a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126489092552:android:88ba7c01b64a20ff6920fd",
+        "android_client_info": {
+          "package_name": "com.fmb.find_my_bus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126489092552-t5p7tr6q6buom0memvhnqkm6rdg9p91t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaMvby39xOdtrwHBLpsbBRx4_-QvpykzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126489092552-t5p7tr6q6buom0memvhnqkm6rdg9p91t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
