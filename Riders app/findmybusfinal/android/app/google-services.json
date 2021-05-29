@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765564785779",
+    "firebase_url": "https://myapp-e76fc-default-rtdb.firebaseio.com",
+    "project_id": "myapp-e76fc",
+    "storage_bucket": "myapp-e76fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765564785779:android:414283089c2815bbab0606",
+        "android_client_info": {
+          "package_name": "com.fmb.findmybusfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765564785779-h837e4sa2o0tjj1rcmurlh49n0mn2nno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0vS53S0m3-f6hFoZsbmUJCjAaO9P-HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765564785779-h837e4sa2o0tjj1rcmurlh49n0mn2nno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
